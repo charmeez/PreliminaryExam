@@ -1,0 +1,7 @@
+a.) Single-threaded is a processing of one command at the time. 
+b.) Event driven architecture is software use to handle a specific task from the user .
+c.) Theres a lot of benefits on Javascript module for me it is less work, no more overload codes and 
+    easy to identify the codes
+d.) AMD (Asynchronous Module Definition)
+    Common.js
+e.)
